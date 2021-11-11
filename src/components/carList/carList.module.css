@@ -1,0 +1,30 @@
+img{
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-left: 20px;
+    /* background-color: skyblue; */
+}
+
+.carListContainer{
+    display: flex;
+    flex-direction: row;
+    /* margin-top: 50px; */
+    border: solid 1px black;
+    align-items: center;
+    margin: 0 auto;
+    width: 80vw;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.carListDalam{
+    width: 80vw;
+    
+}
+
+.searchBarContainer{
+    display: flex;
+    margin-bottom: 50px;
+}
