@@ -3,7 +3,7 @@ const products = [
 		id: "1",
 		name: "Touareg",
 		image:
-			"product_img/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
+			"/mobileDay3V3/product_img/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
 		cost: "677.32",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",

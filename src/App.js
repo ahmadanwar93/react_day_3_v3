@@ -11,7 +11,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 function App() {
   return (
     
-    <Router className = 'App'>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Switch>
         <Route path="/dashboard/:id" component={Details} exact />      
