@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_day_3_v3/static/css/main.81494453.chunk.css",
+    "main.js": "/react_day_3_v3/static/js/main.dbd842ae.chunk.js",
+    "main.js.map": "/react_day_3_v3/static/js/main.dbd842ae.chunk.js.map",
+    "runtime-main.js": "/react_day_3_v3/static/js/runtime-main.5f94cd90.js",
+    "runtime-main.js.map": "/react_day_3_v3/static/js/runtime-main.5f94cd90.js.map",
+    "static/js/2.e38cd51e.chunk.js": "/react_day_3_v3/static/js/2.e38cd51e.chunk.js",
+    "static/js/2.e38cd51e.chunk.js.map": "/react_day_3_v3/static/js/2.e38cd51e.chunk.js.map",
+    "static/js/3.10f01bee.chunk.js": "/react_day_3_v3/static/js/3.10f01bee.chunk.js",
+    "static/js/3.10f01bee.chunk.js.map": "/react_day_3_v3/static/js/3.10f01bee.chunk.js.map",
+    "index.html": "/react_day_3_v3/index.html",
+    "static/css/main.81494453.chunk.css.map": "/react_day_3_v3/static/css/main.81494453.chunk.css.map",
+    "static/js/2.e38cd51e.chunk.js.LICENSE.txt": "/react_day_3_v3/static/js/2.e38cd51e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f94cd90.js",
+    "static/js/2.e38cd51e.chunk.js",
+    "static/css/main.81494453.chunk.css",
+    "static/js/main.dbd842ae.chunk.js"
+  ]
+}
