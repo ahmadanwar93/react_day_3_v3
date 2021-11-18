@@ -51,22 +51,12 @@ class Dashboard extends React.Component{
                 <Link to="/create"  style={{textDecoration:'none'}}>Create New Product </Link>
             </div>
             
-            {/* bullet_description={list.bullet_description} */}
-
-            {/* .filter((searchResult)=>{
-                            if(this.state.name === ""){
-                                return searchResult;
-                            }else if (searchResult['name'].toLowerCase().includes(this.state.name)){
-                                return searchResult;
-                            }
-                        }) */}
 
             <div style={{display:'flex', flexWrap:'wrap'}}>
-                        {products.
-                        filter((ele =>{
+                        {products.filter((ele =>{
                             if(this.state.name ===""){
                                 return ele;
-                            }else if(ele["name"].includes(this.state.name)) {
+                            }else if(ele["name"].toLowerCase().includes(this.state.name)) {
                                 return ele;
                             }
                         }))
@@ -78,7 +68,6 @@ class Dashboard extends React.Component{
                         />)}
                 
             </div>
-            {/* <CarList /> */}
             
             </div>
         )
